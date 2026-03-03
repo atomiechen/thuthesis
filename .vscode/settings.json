@@ -1,4 +1,5 @@
 {
+    "latex-workshop.latex.build.enableMagicComments": false,
     "latex-workshop.latex.recipes": [
         {
             "name": "latexmk (xelatex)",
